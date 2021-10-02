@@ -1,0 +1,27 @@
+.msg{
+    text-align: center;
+    color: red;
+    font-size: 40px ;
+}
+.but{
+    display: flex;
+    justify-content: center;
+}
+.but .num{
+    padding: 20px;
+}
+.start{
+    padding: 10px 15px;
+}
+
+
+
+
+
+ 
+
+
+
+
+
+
